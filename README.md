@@ -6,8 +6,8 @@ source code from http://www.drdobbs.com/security/encrypted-preferences-in-java/1
 ```
     <repositories>
         <repository>
-            <id>SimpleFSM-mvn-repo</id>
-            <url>https://raw.github.com/bvn13/SimpleFSM/mvn-repo/</url>
+            <id>EncryptedPreferences-mvn-repo</id>
+            <url>https://raw.github.com/bvn13/EncryptedPreferences/mvn-repo/</url>
             <snapshots>
                 <enabled>true</enabled>
                 <updatePolicy>always</updatePolicy>
