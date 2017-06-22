@@ -1,0 +1,11 @@
+.idea/**
+.idea/*
+.idea
+*.iml
+out/**
+out/*
+lib/**
+lib/*
+target/**
+target/*
+build.7z
