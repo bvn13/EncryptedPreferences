@@ -3,6 +3,7 @@ source code from http://www.drdobbs.com/security/encrypted-preferences-in-java/1
 
 # Usage
 1. Add our repository into your .pom
+```
     <repositories>
         <repository>
             <id>SimpleFSM-mvn-repo</id>
@@ -13,7 +14,9 @@ source code from http://www.drdobbs.com/security/encrypted-preferences-in-java/1
             </snapshots>
         </repository>
     </repositories>
+```
 2. Add dependency
+```
     <dependencies>
         <!-- EncryptedPreferences -->
         <dependency>
@@ -22,4 +25,5 @@ source code from http://www.drdobbs.com/security/encrypted-preferences-in-java/1
             <version>1.0</version>
         </dependency>
     </dependencies>
+```
 3. Use it!
